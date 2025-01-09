@@ -8,6 +8,9 @@ Hey my name is Denim Waters. I am 22 years old and I was born in NYC. Although I
   + Start assignments early
   + utilize the TLC
 + Attend 10 events regarding tech
+  + Find out how to be automatically notified
+  + Ask peers in NSBE about upcoming events
+  + post the events on my LinkedIn
 + learn js.react
 ## How to contact me 
 1. Email
