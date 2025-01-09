@@ -6,4 +6,7 @@ Hey my name is Denim Waters. I am 22 years old and I was born in NYC. Although I
 + Maintain my 4.0 GPA
 + Attend 10 events regarding tech
 + learn js.react
+## How to contact me 
+1. Email  Ddwaters@my.waketech.edu
+2. 
 
