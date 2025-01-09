@@ -8,6 +8,6 @@ Hey my name is Denim Waters. I am 22 years old and I was born in NYC. Although I
 + learn js.react
 ## How to contact me 
 1. Email
-   Ddwaters@my.waketech.edu
+      Ddwaters@my.waketech.edu
    
 
