@@ -4,6 +4,9 @@ Hey my name is Denim Waters. I am 22 years old and I was born in NYC. Although I
 [Wake Tech](https://www.waketech.edu/user/login/ "This link will direct you to my school, Wake Tech's website")
 ## Goals this semsters
 + Maintain my 4.0 GPA
+  + Get all A's
+  + Start assignments early
+  + utilize the TLC
 + Attend 10 events regarding tech
 + learn js.react
 ## How to contact me 
