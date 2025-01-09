@@ -22,7 +22,7 @@ Hey my name is ***Denim Waters***. I am 22 years old and I was born in NYC. Alth
   + books
 ## Websites you should check out
 [Wake Tech](https://www.waketech.edu/user/login/ "This link will direct you to my school, Wake Tech's website")
-[Youtube](https://www.youtube.com/ /"I use Youtube for entertainment and also for learning new skills.")
+[Youtube](https://www.youtube.com/ "I use Youtube for entertainment and also for learning new skills.")
 
 
    
