@@ -12,6 +12,9 @@ Hey my name is Denim Waters. I am 22 years old and I was born in NYC. Although I
   + Ask peers in NSBE about upcoming events
   + post the events on my LinkedIn
 + learn js.react
+  + From CTI 110
+  + online resources
+  + books
 ## How to contact me 
 1. Email
    1. Ddwaters@my.waketech.edu
