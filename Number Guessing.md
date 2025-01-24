@@ -6,5 +6,5 @@ B--> C[Input Guess from User]
 C--> D {Valid Number?]
 D--> | No| E[Invalid Input Message]
 
-[End]
+E[End]
 
