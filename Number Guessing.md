@@ -13,6 +13,6 @@ H-->|yes| I[display 'Too High' Message]
 H-->|No| J[Display 'Too Low' Message]
 I--> C
 J --> C
-G --> K [End]
+G --> K[End]
 
 
