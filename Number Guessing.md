@@ -6,9 +6,9 @@ B--> C[Input Guess from User]
 C--> D{Valid Number?}
 D--> |No| E[Invalid Input Message]
 E--> C
-D --> |Yes| F {Correct?}
+D --> |Yes| F{Correct?}
 F--> |Yes| G[display "Correct Guess" Message]
-F --> |No| H { "Too high?"}
+F --> |No| H{ "Too high?"}
 H--> |yes| I[display "Too High" Message]
 H--> |No| J[Display "Too Low" Message]
 I--> C
