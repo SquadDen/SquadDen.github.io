@@ -1,5 +1,5 @@
 # Number Guessing game FlowChart
 ```mermaid 
 flowchart TD
-A [Start] --> B[End]
+A[Start] --> B[End]
 
