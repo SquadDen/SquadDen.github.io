@@ -1,1 +1,3 @@
-A --> B
+```mermaid 
+flowchart TD
+A [Start] --> B
