@@ -3,8 +3,8 @@
 flowchart TD
 A[Start] --> B{Generate Random Number}
 B--> C[Input Guess from User]
-C--> D{Valid Number?}
-D-->|No| E['Invalid number' Message]
+C--> D{Is Input Between 1 and 5?}
+D-->|No| E[Display 'Invalid number' Message]
 E--> C
 D -->|Yes| F{Correct?}
 F-->|Yes| G[Display 'Correct Guess' Message]
