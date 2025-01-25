@@ -7,7 +7,6 @@ C--> D{Valid Number?}
 D-->|No| E['Invalid number' Message]
 E--> C
 D -->|Yes| F{Correct?}
-G --> C
 F-->|Yes| G[Display 'Correct Guess' Message]
 F -->|No| H{'Too high?'}
 H-->|yes| I[display 'Too High' Message]
