@@ -6,7 +6,7 @@ This is a flowchart I've created for the concept of my Number **Guessing** game.
 + If the number isn't within the requirements an error message will display then you will be have to guess again
 + if the number is within the requests then it will check if its correct
 + if it's incorrect it will display either too high or too low and you have to guess again. If it's correct it will say "correct guess".
-##FlowChart
+## FlowChart
 ```mermaid 
 flowchart TD
 A[Start] --> B{Generate Random Number}
