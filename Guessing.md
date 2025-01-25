@@ -9,6 +9,7 @@ This is a flowchart I've created for the concept of my Number **Guessing** game.
 ```mermaid 
 flowchart TD
 A[Start] --> B{Generate Random Number}
+step 1
 B--> C[Input Guess from User]
 C--> D{Is Input Between 1 and 5?}
 D-->|No| E[Display 'Invalid number' Message]
