@@ -4,6 +4,7 @@ flowchart TD
 A[Start] --> B{Generate Random Number}
 B--> C[Input Guess from User]
 C--> D{Valid Number?}
+C--> E[Invalid Number]
 D-->|No| E[Invalid Input Message]
 D -->|Yes| F{Correct?}
 E --> G[Display 'Invalid Input' Message]
